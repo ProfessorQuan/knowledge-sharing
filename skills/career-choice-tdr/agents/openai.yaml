@@ -1,4 +1,4 @@
 interface:
-  display_name: "天地人大学生择业助手"
-  short_description: "从个人条件出发，逐步核实行业与城市机会，比较路径并形成可执行、可复盘的择业行动"
+  display_name: "大学生择业"
+  short_description: "帮助大学生明确需求、比较方向与岗位，结合时代、地区和个人条件，通过证据与实践完成择业"
   default_prompt: "请使用 $career-choice-tdr 帮我完成当前的择业决定，一次问我一个关键问题，并保留依据和下一步行动。"
