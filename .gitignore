@@ -1,0 +1,17 @@
+# 学生个人记录和本地隐私材料不进入仓库
+private/
+student-records/
+personal-notes/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
