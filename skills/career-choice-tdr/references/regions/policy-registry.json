@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "checked_on": "2026-11-18",
+  "scope": "择业地区背景；官方来源与选择性章节核对，不是招聘数据库或全文法律审查",
+  "sources": [
+    {
+      "id": "GD-15",
+      "title": "广东省国民经济和社会发展第十五个五年规划纲要",
+      "kind": "正式省级规划纲要",
+      "period": "2026-2030",
+      "issued_on": "2026-03-26",
+      "published_on": null,
+      "observed_official_reprint_on": "2026-04-29",
+      "document_number": "粤府〔2026〕24号",
+      "urls": ["https://www.pwccw.gd.gov.cn/dfzc/content/post_1325582.html", "https://www.gdlgb.gov.cn/xwdt/gdxw5/content/post_107439.html"],
+      "verified_scope": "文件身份、通知官方转载及全文转载的相关方向；未逐项复核全文",
+      "card": "guangdong.md"
+    },
+    {
+      "id": "ZH-15",
+      "title": "珠海市国民经济和社会发展第十五个五年规划纲要",
+      "kind": "正式市级规划纲要",
+      "period": "2026-2030",
+      "approved_on": "2026-02-12",
+      "issued_on": "2026-08-26",
+      "published_on": "2026-08-31",
+      "document_number": "珠府〔2026〕30号",
+      "urls": ["https://www.zhuhai.gov.cn/zw/fggw/qtwj/ztzfwj/content/post_3935860.html", "https://www.zhuhai.gov.cn/attachment/0/441/441312/3935860.pdf"],
+      "verified_scope": "通知与PDF身份、第四章相关产业章节；非全部170页逐项审阅",
+      "card": "zhuhai.md"
+    },
+    {
+      "id": "ZH-REC",
+      "title": "中共珠海市委关于制定珠海市国民经济和社会发展第十五个五年规划的建议",
+      "kind": "规划建议/编制依据",
+      "period": "2026-2030",
+      "adopted_on": "2025-12-06",
+      "published_on": "2026-01-23",
+      "urls": ["https://www.zhuhai.gov.cn/zwfwglj/gkmlpt/content/3/3874/post_3874551.html"],
+      "relation": "ZH-15的前期编制依据；不是另一份正式规划纲要",
+      "verified_scope": "标题、通过与公开日期、文件类型及编制关系",
+      "card": "zhuhai.md"
+    },
+    {
+      "id": "HQ-IND",
+      "title": "横琴粤澳深度合作区产业发展规划",
+      "kind": "正式区域产业发展规划",
+      "period": "2025-2029",
+      "issued_on": "2025-06-21",
+      "published_on": "2025-06-30",
+      "document_number": "粤澳深合执字〔2025〕28号",
+      "urls": ["https://www.hengqin.gov.cn/macao_zh_hans/zwgk/zcfg/zyzc/content/post_3833940.html", "https://www.hengqin.gov.cn/attachment/0/408/408115/3810641.pdf"],
+      "verified_scope": "通知、PDF身份、目录与科技研发和高端制造等相关章节；未逐项复核全文",
+      "card": "hengqin.md"
+    },
+    {
+      "id": "MO-3",
+      "title": "澳门特别行政区经济和社会发展第三个五年规划",
+      "kind": "正式地区五年规划",
+      "period": "2026-2030",
+      "published_on": "2026-08-18",
+      "urls": ["https://www.gov.mo/zh-hans/news/929729/", "https://www.dsepdr.gov.mo/zh-hans/event/3rdplan/3rdplan"],
+      "verified_scope": "官方正式公布消息与主要任务；未以专题入口可用性代表完整文本已审阅",
+      "card": "macao.md"
+    }
+  ]
+}
